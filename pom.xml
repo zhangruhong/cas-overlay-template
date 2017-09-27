@@ -85,6 +85,11 @@
             <url>http://maven.aliyun.com/nexus/content/groups/public</url>
         </repository>
         <repository>
+            <id>central</id>
+            <name>Human Readable Name for this Mirror.</name>
+            <url>http://10.39.251.124:8080/nexus/content/groups/public/</url>
+        </repository>
+        <repository>
             <id>mvnrepository</id>
             <name>Central Repository</name>
             <url>https://mvnrepository.com/repos/central</url>
